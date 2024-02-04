@@ -1,0 +1,37 @@
+
+title: "Comparative Study of Supervised Learning and Metaheuristic Algorithms for the Development of Bluetooth-Based Indoor Localization Mechanisms"
+license: Apache-2.0
+authors:
+  - family-names: "Castillo-Cara"
+    given-names: "Manuel"
+    affiliation: "Universidad de Lima"
+    orcid: "https://orcid.org/0000-0002-2990-7090"
+cff-version: 1.2.0
+preferred-citation:
+  authors:
+    - family-names: "Mondragón-Ruiz"
+      given-names: "Giovanny"
+      affiliation: "Universidad Nacional de Ingeniería"
+    - family-names: "Tenorio-Trigoso"
+      given-names: "Alonso"
+      affiliation: "Universidad de Lima"
+    - family-names: "Castillo-Cara"
+      given-names: "Manuel"
+      affiliation: "Universidad de Lima"
+      orcid: "https://orcid.org/0000-0002-2990-7090"
+    - family-names: "Caminero"
+      given-names: "Blanca"
+      affiliation: "Universidad de Castilla-La Mancha"
+      orcid: "https://orcid.org/0000-0003-1510-1608"
+    - family-names: "Carrión"
+      given-names: "Carmen"
+      affiliation: "Universidad de Castilla-La Mancha"
+  title: "An Experimental Study of Fog and Cloud Computing in CEP-based Real-Time IoT Applications"
+  type: article
+  journal: "Jorunal of Cloud Computing"
+  doi: 10.1186/s13677-021-00245-7
+  year: 2021
+identifiers:
+  - description: "An Experimental Study of Fog and Cloud Computing in CEP-based Real-Time IoT Applications"
+    type: doi
+    value: 10.5281/zenodo.7447366
