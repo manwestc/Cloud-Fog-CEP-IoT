@@ -1,8 +1,9 @@
-# An Experimental Study of Fog and Cloud Computing in CEP-based Real-Time IoT Applications
-
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10616161.svg)](https://doi.org/10.5281/zenodo.10616161)
 
+
+# An Experimental Study of Fog and Cloud Computing in CEP-based Real-Time IoT Applications
 
 
 ## Citing this work
